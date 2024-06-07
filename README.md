@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### wassup?
-### check out my repos such as my neovim-config!
+### check out my neovim-config!
