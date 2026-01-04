@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # hi!
-im nithil also known as tenfold
-check out some of my projects
+## im nithil also known as tenfold
+## check out some of my projects
 
