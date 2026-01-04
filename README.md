@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# wassup?
+# hi!
+im nithil also known as tenfold
+check out some of my projects
 
