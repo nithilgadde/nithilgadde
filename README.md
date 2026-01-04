@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### wassup?
-### check out my neovim-config!
+# wassup?
+
